@@ -1,6 +1,6 @@
-.csv
-.parquet
-.env
+*.csv
+*.parquet
+*.env
 .venv
 .ipynb_checkpoints
 __pycache__/
